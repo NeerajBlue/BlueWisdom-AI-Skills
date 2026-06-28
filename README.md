@@ -15,6 +15,10 @@ By maintaining these skills in a central repository, Blue Wisdom ensures consist
 - **`bw-ld-proposal-generator`**: Generates A4 print-ready HTML L&D training proposals, automatically injecting company profiles, tiered pricing, and animations.
 - **`bw-client-proposal-crafter`** *(Drafting)*: An advanced sales engine that extracts requirements from client inquiry emails and formulates multi-option strategic proposals.
 
+### Content Creation
+- **`bw-presentation-designer`**: Generates structured, industry-leading slide deck outlines and VBA scripts based on McKinsey/BCG standards.
+- **`bw-curriculum-developer`**: Writes long-form training materials including workbooks, handouts, case studies, and test papers.
+
 ### Operations & HR
 - **`bw-hr-automation-bot`** *(Drafting)*: Manages Google Apps Scripts and Canva-style HTML email templates for automated, brand-aligned candidate responses.
 - **`bw-trainer-ops-coordinator`** *(Drafting)*: Automates the management of the outsourced trainer pool via the `Trainers_Master_Tracker.xlsx`.
