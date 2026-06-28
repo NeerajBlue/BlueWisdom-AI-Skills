@@ -12,8 +12,7 @@ By maintaining these skills in a central repository, Blue Wisdom ensures consist
 
 ### Sales & Communication
 - **`bw-communications`**: Global guidelines for drafting Blue Wisdom communications (emails, proposals, WhatsApp messages) enforcing the BW tone and visual identity.
-- **`bw-ld-proposal-generator`**: Generates A4 print-ready HTML L&D training proposals, automatically injecting company profiles, tiered pricing, and animations.
-- **`bw-client-proposal-crafter`** *(Drafting)*: An advanced sales engine that extracts requirements from client inquiry emails and formulates multi-option strategic proposals.
+- **`bw-client-proposal-crafter`**: An advanced sales engine that extracts requirements from client emails and formulates multi-option strategic proposals in print-ready HTML with methodologies and styling.
 
 ### Content Creation
 - **`bw-presentation-designer`**: Generates structured, industry-leading slide deck outlines and VBA scripts based on McKinsey/BCG standards.
