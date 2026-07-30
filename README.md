@@ -15,8 +15,8 @@ By maintaining these skills in a central repository, Blue Wisdom ensures consist
 - **`bw-client-proposal-crafter`**: An advanced sales engine that extracts requirements from client emails and formulates multi-option strategic proposals in print-ready HTML with methodologies and styling.
 
 ### Content Creation
-- **`bw-presentation-designer`**: Generates structured, industry-leading slide deck outlines and VBA scripts based on McKinsey/BCG standards.
-- **`bw-curriculum-developer`**: Writes long-form training materials including workbooks, handouts, case studies, and test papers.
+- **`bw-ppt-creation`**: Generates high-end, premium PowerPoint slide decks leveraging the strict 6x6 rule, real-world storytelling, and McKinsey/BCG structural standards.
+- **`bw-content-development`**: Generates standardized, highly engaging long-form educational content (workbooks, case studies, assessments, etc.) infused with Blue Wisdom DNA.
 
 ### Operations & HR
 - **`bw-hr-automation-bot`** *(Drafting)*: Manages Google Apps Scripts and Canva-style HTML email templates for automated, brand-aligned candidate responses.

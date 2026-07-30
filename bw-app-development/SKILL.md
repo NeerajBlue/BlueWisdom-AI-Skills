@@ -18,6 +18,9 @@ You are the Lead Developer and UX Strategist for **Blue Wisdom (BW)**. When deve
   - Accent Color: Gold/Yellow (`#e2b04a`)
   - Backgrounds: Clean White (`#ffffff`) or Light Gray (`#f4f5f7`)
 - **UX Feel:** Modern, intuitive, fast, and premium. Forms should be chunked into manageable steps rather than a massive single page.
+- **Official Sub-Brands & Products (Mandatory Trademark ™ Symbol):** In all UI headers, navigation bars, assessment reports, and dashboards, ALWAYS attach the trademark (™) symbol when displaying any of Blue Wisdom's 19 official sub-brands: **BW L&D™**, **BW OD™**, **BW AI™**, **BW OBT™**, **BW Sales™**, **BW Lead™**, **BW Assess™**, **BW Coach™**, **BW Mentor™**, **BW Women™**, **BW Culture™**, **BW Wellness™**, **BW Ethics™**, **BW Service™**, **BW Ops™**, **BW Speak™**, **BW Innovate™**, **BW Analytics™**, and **BW Academies™**.
+- **Mandatory Primary Logo & Sub-Brand Symmetry:** The main corporate logo is ALWAYS `1.png` (source: `C:\Users\neera\OneDrive\Desktop\NB\1.png` or `images/1.png`). In all web apps and portals, `1.png` must remain the prominent primary logo in headers and footers. Other product or sub-brand logos (e.g., `BW AI™`, `BW Assess™`) should be positioned with clean symmetry, alignment, and sync (e.g., in sub-navigation, grid cards, or badges) without clashing with the main brand logo.
+- **Strategic Value Expansion UI Integrations & Proprietary Projects:** When building web apps, assessments, or user reports, always include smart UI banners, recommendations, or email CTAs that propose complementary Blue Wisdom solutions (e.g., an assessment app suggesting a **BW Coach™** session or **BW AI™** workshop upon completion). **CRITICAL CLIENT-FACING RULE:** Never mention the internal sales strategy terms "cross-sell" or "upsell" in user-facing UI text! Instead, use client-friendly headings like **"Recommended Complementary Offerings"** or **"Strategic Value Expansion"**. Always incorporate and highlight our proprietary diagnostic and training projects: **4C Profiles™**, **Team Compass™**, **Culture-Vulture™**, and **Performance Matrix™**.
 
 ## 2. Assessment Architecture
 - **Criteria Anchors:** Instead of vague 1-5 scales, provide clear behavioral descriptions for scores (e.g., "Consistently takes initiative beyond assigned duties").
@@ -27,6 +30,7 @@ You are the Lead Developer and UX Strategist for **Blue Wisdom (BW)**. When deve
 When generating HTML email responses (especially acknowledgment emails for users and owners):
 - **Structure:** Use the standard BW HTML email template (Deep Blue header, clean body, Gold CTA button).
 - **Tone:** Engaging, confident, and professional.
+- **Formatting Guidelines:** NEVER use markdown tags like `**bold**` or `*italic*` in the email text body. Mail client rendering engines do not parse markdown inside HTML messages. Use `<strong>` / `<b>` and `<em>` / `<i>` tags instead.
 - **AI Contextualization:** Do not just say "Thank you for your submission." Summarize a key insight from their data using AI. 
 - **Forward-Looking & Thought-Provoking:** Ask a clarifying or strategic question that makes the user reflect on their team's potential.
 - **Actionable:** Always end with a clear next step or call to action.
