@@ -1,50 +1,48 @@
 ---
 name: bw-ppt-creation
-description: Generates high-end, premium PowerPoint slide decks leveraging the strict 6x6 rule, real-world storytelling, and McKinsey/BCG structural standards.
+description: Generates high-end PowerPoint slide decks and interactive HTML presentation engines leveraging the 6x6 rule, BCG standards, research citations, un-cropped graphic containers, zero-INP lag JS engines, team galleries, product grids, clean audience poll cards, half-slide huge QR attendance codes, 50ft projection font sizes, top slide banners, and progressive step reveals.
 ---
 
-# BW PPT Creation
+# BW PPT & Presentation Creation (Modern Interactive Standard)
 
-**Purpose:** To generate high-end, benchmark-quality PowerPoint slide content and structures for Blue Wisdom training sessions. This acts as a top-tier presentation-writing engine that moves beyond mere content compression to shape a cohesive learning narrative.
-**When to use:** Use this whenever you need to write, structure, design, or script content for professional training presentation slides.
+**Purpose:** To generate high-end PowerPoint slide content and standalone interactive HTML presentation engines that serve as a complete substitute for PPT.
+**When to use:** Use this whenever you need to write, structure, design, script, or build professional training presentation slides or interactive web presentations.
 
 ---
 
-## Instructions
-
-You are the **Lead Presentation Architect** for Blue Wisdom (BW). Your goal is to design slide decks that rival top-tier consulting firms (McKinsey, BCG) and premium executive learning workshops. 
-
-### 1. Pre-Execution Context Capture
-Before generating ANY slides, collect the following (ask if missing):
+## 1. Pre-Execution Context Capture
+Before generating ANY slides, collect:
 - **Client Name & Industry**
 - **Topic, Target Audience & Learning Objective**
 
-### 2. The Golden Rules of Blue Wisdom PPTs
+---
 
-- **The Strict 6x6 Rule:**
-  - Every slide must have a maximum of **6 bullet points** (key learning points).
-  - Every bullet point must have a maximum of **6 to 8 words**.
-  - *Enforcement:* If there is more content to cover, you MUST create a new slide. Do not cram text.
-- **Mandatory Slide Structure:** Every slide MUST adhere to this exact anatomy:
-  - 1 Action/Insight-led Title (e.g., avoid "Our Process", use "Our 3-Step Process Accelerates Readiness by 40%").
-  - 1 Sub-title / Framing Line.
-  - The 6x6 Body Content.
-- **The Storytelling & Context Engine:** Randomly and organically embed:
-  - Contextual situations and practical examples.
-  - Impactful quotes.
-  - Built-in stories and case studies drawn from the real world (Business, Sports, Games, History, Military).
+## 2. Core Presentation Layout & 50-Foot Projection Standards
 
-### 3. Design & Narrative Flow
-- **Narrative Sequencing:** Follow a logical journey: Context -> Challenge -> Concept -> Application -> Reflection -> Action.
-- **Imagery Rule:** Whenever suggesting images of professionals or executives in a corporate environment, strictly adhere to the Blue Wisdom global standard: ALWAYS ensure the executives and professionals are depicted as fair-skinned Indian or Asian individuals.
+### A. 50-Foot Distance Projection Font Standards
+- **Top Slide Title (`.top-slide-title`):** Must be placed at the **VERY TOP of the slide** in bold, heavy typography (`font-size: 3.2rem; font-weight: 900`).
+- **Action Banner Subtitle (`.top-action-banner`):** Prominently placed directly beneath the title (`font-size: 2.1rem; font-weight: 800`).
+- **Bullet Point Card Titles (`.bullet-title-large`):** `font-size: 1.65rem; font-weight: 800`.
+- **Bullet Text Content (`.bullet-text-large`):** `font-size: 1.35rem` to `1.7rem; font-weight: 600` (easily legible from 50 feet away in large auditoriums).
 
-### 4. Formatting Output
-Format your output cleanly so the user can copy-paste it directly into their slides or a Markdown-to-PPT converter. 
+### B. Canvas Occupancy & Image Scaling Rule (Zero Empty Space)
+- **Huge Image Box (`.huge-image-box`):** Expand slide graphics and images to fill the canvas space completely (`width: 520px; height: 480px`).
+- **Zero Empty Space:** Eliminate awkward whitespace by wrapping text into full-width cards (`.bullet-card-large`) that stretch to fill the remaining slide dimensions.
 
-**Slide [X]: [Action Title]**
-- **Sub-title:** [Text]
-- **Key Learning Points:**
-  - [Point 1: Max 6-8 words]
-  - [Point 2...]
-- **Story/Context / Quote:** [If applicable for this slide]
-- **Visual Suggestion:** [Describe image/layout]
+### C. Specific Page Image Mapping
+- **Slide 5:** `PPT Images\Poll.webp`
+- **Slide 6:** `PPT Images\Obj.png`
+- **Slide 7:** `PPT Images\intern.webp`
+- **Slide 8:** `PPT Images\Poll.webp`
+- **Slide 9:** `PPT Images\Corporate.jpg` (Includes all 5 competencies)
+- **Slide 10:** `PPT Images\Attitude.webp`
+- **Slide 11:** `PPT Images\Assess.jpg`
+- **Slide 12:** `PPT Images\Roadmap.webp`
+
+### D. Half-Slide Huge QR Code Layout
+- **Slide 14 Attendance Layout:** The QR code container on Slide 14 MUST occupy **half the entire slide screen width** (`.half-slide-qr-layout` with 380px SVG QR box).
+
+### E. Facilitator Controls
+- **Facilitator Buttons & Control Bar:** Footer controls MUST include explicit click buttons for **Next**, **Prev**, **Speaker Notes**, and **Fullscreen Toggle**. These must supplement the standard keyboard shortcuts (`F` for fullscreen, `S` for notes, Space/Arrows for steps).
+- **Interactive Polling Integrations (Mentimeter / Kahoot):** When live audience polling is requested (e.g., Slide 5/8), provide support to embed active Mentimeter or Kahoot direct widgets via secure `<iframe>` elements to render real-time audience feedback charts directly on-screen.
+

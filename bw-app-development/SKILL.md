@@ -39,3 +39,9 @@ When generating HTML email responses (especially acknowledgment emails for users
 1. **The Hook:** Acknowledge receipt with a customized insight.
 2. **The Prompt:** Ask a strategic question (e.g., *"We noticed your team has a high concentration of M3 Potential Performers. What is the primary roadblock preventing them from taking on leadership roles?"*)
 3. **The Next Step:** Provide an actionable link or next step (e.g., *"Click here to view your team's AI-generated coaching playbook."*)
+
+
+## 4. DPDP Act 2023 Compliance & Consent Rule (MANDATORY GLOBAL RULE)
+- **Explicit Consent Checkbox:** In EVERY web app, digital form, or psychometric assessment built for Blue Wisdom, you MUST include a mandatory, explicit consent checkbox complying with India's **Digital Personal Data Protection (DPDP) Act 2023**.
+- **Mandatory Statement:** *"I hereby give explicit consent to Blue Wisdom Pvt. Ltd. to store, process, and analyze my personal and assessment data for generating my report and receiving communication regarding leadership development, coaching, and career opportunities."*
+- **Form Gate:** Users MUST NOT be allowed to proceed to assessment questions without checking the DPDP consent box.
